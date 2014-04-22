@@ -38,4 +38,4 @@ Zoo
 
 ## UML-diagram ##
 
-![UML](http://cs608917.vk.me/v608917433/737e/M22GRpfWTlI.jpg)
+![UML](https://pp.vk.me/c613516/v613516530/9dba/drNN5vCdu7U.jpg)
