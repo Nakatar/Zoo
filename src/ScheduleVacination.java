@@ -8,9 +8,9 @@
 
 
 public class ScheduleVacination {
-	public Vaccination ListVaccination;
-	public int AmountVacination;
-	public void ScheduleVaccination() {
+	public Vaccination listVaccination;
+	public int amountVacination;
+	public void scheduleVaccination() {
 	
 	}
 	
@@ -18,7 +18,7 @@ public class ScheduleVacination {
 	
 	}
 	
-	public void AddNewVaccination() {
+	public void addNewVaccination() {
 	
 	}
 }
