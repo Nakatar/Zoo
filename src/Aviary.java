@@ -8,22 +8,22 @@
 
 
 public class Aviary {
-	public String Name;
-	public Menu MenuForDay;
-	public String TypeAnimals;
-	public ScheduleVaccination Schedule;
-	public boolean TimeToFeed;
-	public int NumberFeeding;
-	public Animal ListAnimal;
-	public void Aviary() {
+	public String name;
+	public Menu menuForDay;
+	public String typeAnimals;
+	public ScheduleVaccination schedule;
+	public boolean timeToFeed;
+	public int numberFeeding;
+	public Animal listAnimal;
+	public void aviary() {
 	
 	}
 	
-	public void PrintAviary() {
+	public void printAviary() {
 	
 	}
 	
-	public void PrintListAnimal() {
+	public void printListAnimal() {
 	
 	}
 	
