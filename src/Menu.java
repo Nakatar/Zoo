@@ -8,17 +8,17 @@
 
 
 public class Menu {
-	public Food ListFood;
-	public int AmountFood;
-	public void Menu() {
+	public Food listFood;
+	public int amountFood;
+	public void menu() {
 	
 	}
 	
-	public void TakeFood() {
+	public void takeFood() {
 	
 	}
 	
-	public void PrintMenu() {
+	public void printMenu() {
 	
 	}
 }
