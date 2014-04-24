@@ -8,25 +8,25 @@
 
 
 public class Warehouse {
-	public Food StorageFood;
-	public Vaccination StorageVaccination;
-	public void PrintStorageFood() {
+	public Food storageFood;
+	public Vaccination storageVaccination;
+	public void printStorageFood() {
 	
 	}
 	
-	public void AddNewFood() {
+	public void addNewFood() {
 	
 	}
 	
-	public void DeleteFood() {
+	public void deleteFood() {
 	
 	}
 	
-	public void AddNewVaccination() {
+	public void addNewVaccination() {
 	
 	}
 	
-	public void DeleteVaccination() {
+	public void deleteVaccination() {
 	
 	}
 }
