@@ -8,13 +8,13 @@
 
 
 public class Reminder {
-	public Food FoodForBuy;
-	public Vaccination VaccinaForBuy;
-	public void PrintReminder() {
+	public Food foodForBuy;
+	public Vaccination vaccinaForBuy;
+	public void printReminder() {
 	
 	}
 	
-	public void CheckReminder() {
+	public void checkReminder() {
 	
 	}
 }
