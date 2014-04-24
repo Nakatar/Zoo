@@ -8,24 +8,24 @@
 
 
 public class Food {
-	public String Name;
-	public int AmountOnWarehouse;
-	public int MinAmount;
-	public String TypeFood;
-	public int MaxAmount;
-	public void AddFood(int incoming) {
+	public String name;
+	public int amountOnWarehouse;
+	public int minAmount;
+	public String typeFood;
+	public int maxAmount;
+	public void addFood(int incoming) {
 	
 	}
 	
-	public void SubtractFood(int expenditure) {
+	public void subtractFood(int expenditure) {
 	
 	}
 	
-	public void CheckAmount() {
+	public void checkAmount() {
 	
 	}
 	
-	public void OrderFood() {
+	public void orderFood() {
 	
 	}
 }
