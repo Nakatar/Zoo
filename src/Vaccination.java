@@ -8,17 +8,17 @@
 
 
 public class Vaccination {
-	public String Name;
+	public String name;
 	public Date NextData;
-	public int Frequency;
-	public int AmountOnWarehouse;
-	public int MaxAmount;
-	public int MinAmount;
-	public void Vaccination() {
+	public int frequency;
+	public int amountOnWarehouse;
+	public int maxAmount;
+	public int minAmount;
+	public void vaccination() {
 	
 	}
 	
-	public void OrderVaccination() {
+	public void orderVaccination() {
 	
 	}
 }
