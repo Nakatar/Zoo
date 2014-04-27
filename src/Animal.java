@@ -8,10 +8,10 @@
 
 
 public class Animal {
-	public String name;
-	public Boolean callDoctor;
-	public Boolean disease;
-	public void animal(string d:boolean n) {
+	public String Name;
+	public Boolean CallDoctor;
+	public Boolean Disease;
+	public void Animal(string d:boolean n) {
 	
 	}
 	
@@ -19,7 +19,7 @@ public class Animal {
 	
 	}
 	
-	public void toCallDoctor() {
+	public void ToCallDoctor() {
 	
 	}
 }
